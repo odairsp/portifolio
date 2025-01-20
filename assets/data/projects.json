@@ -1,0 +1,122 @@
+{
+    "projects": [
+        {
+            "name": "SPIDERMAN MULTIVERSO",
+            "urlProject": "https://odairsp.github.io/spiderman/",
+            "urlRepository": "https://github.com/odairsp/spiderman",
+            "urlImage": "./assets/images/projects/spiderman.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/spiderman.png",
+            "description": "Filmografia do Homem-Aranha.",
+            "behaviors": [
+                "Transição 3D",
+                "Animação em javascript"
+            ],
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        },
+        {
+            "name": "MUNDO INVERTIDO",
+            "urlProject": "https://odairsp.github.io/mundo-invertido/",
+            "urlRepository": "https://github.com/odairsp/mundo-invertido",
+            "urlImage": "./assets/images/projects/mundo-invertido.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/mundo-invertido.png",
+            "description": "Strnger Things - Mundo Invertido.",
+            "behaviors": [
+                "Animações e transições em css"
+            ],
+            "technologies": [
+                "html",
+                "css"
+            ]
+        },
+        {
+            "name": "YUGIOH JOKENPO",
+            "urlProject": "https://odairsp.github.io/js-yugioh/",
+            "urlRepository": "https://github.com/odairsp/js-yugioh",
+            "urlImage": "./assets/images/projects/js-yugioh.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/js-yugioh.png",
+            "description": "Jokenpo Yugioh",
+            "behaviors": [
+                "Animações e transições em css",
+                "Lógica, animações e interações em javascript"
+            ],
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        },
+        {
+            "name": "PIANO VIRTUAL",
+            "urlProject": "https://odairsp.github.io/piano/",
+            "urlRepository": "https://github.com/odairsp/piano",
+            "urlImage": "./assets/images/projects/piano.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/piano.png",
+            "description": "Piano Virtual.",
+            "behaviors": [
+                "Animações e transições em css",
+                "Lógica, animações e interações em javascript"
+            ],
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        },
+        {
+            "name": "JOGO DA MEMÓRIA",
+            "urlProject": "https://odairsp.github.io/memory-game/",
+            "urlRepository": "https://github.com/odairsp/memory-game",
+            "urlImage": "./assets/images/projects/memory-game.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/memory-game.png",
+            "description": "Jogo da Memória.",
+            "behaviors": [
+                "Animações e transições em css",
+                "Lógica, animações e interações em javascript"
+            ],
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        },
+        {
+            "name": "POKEDEX",
+            "urlProject": "https://odairsp.github.io/pokedex/",
+            "urlRepository": "https://github.com/odairsp/pokedex",
+            "urlImage": "./assets/images/projects/pokedex.png",
+            "urlImageCarousel": "./assets/images/projects/carousel/pokedex.png",
+            "description": "Pokedex Pokemon.",
+            "behaviors": [
+                "Requisição de API",
+                "Animações e transições em css",
+                "Lógica, animações e interações em javascript"
+            ],
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        }
+    ],
+    "tecnologiesImagesPath": [
+        {
+            "name": "html",
+            "url": "./assets/images/tecnologies/html.png"
+        },
+        {
+            "name": "css",
+            "url": "./assets/images/tecnologies/css.png"
+        },
+        {
+            "name": "javascript",
+            "url": "./assets/images/tecnologies/javascript.png"
+        },{
+            "name": "docker",
+            "url": "./assets/images/tecnologies/docker.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "curses": [
+        {
+            "name": "Versionamento de Código com Git e GitHub",
+            "school": "Versionamento de Código com Git e GitHub",
+            "description": "Aprenda JavaScript, TypeScript, Node, Express, MongoDB, API REST, JWT, Angular, React, Vue, Webpack, TDD, BDD e muito mais!"
+        },
+        {
+            "name": "Curso Web Moderno Completo com JavaScript 2021 + Projetos",
+            "school": "Udemy",
+            "description": "Curso Web Moderno Completo com JavaScript 2021 + Projetos do básico ao avançado: HTML, CSS, JavaScript, Node, React, Vue, Angular, TypeScript, Webpack, Gulp, MySQL, MongoDB, Express, Ajax, Fetch, RxJS, JWT, Bcrypt, Git, Heroku, Netlify, Docker, PWA, SEO, MVC, Rest, GraphQL, TDD, BDD, Scrum, Kanban e muito mais!"
+        },
+        {
+            "name": "Curso de React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO!",
+            "school": "Udemy",
+            "description": "Aprenda React, Redux, Redux-Saga, Hooks, Context API, React-Router, Axios, JWT, LocalStorage, Jest, Enzyme, Storybook, Firebase, Heroku, Netlify, SEO, PWA, MVC, Rest, GraphQL, TDD, BDD, Scrum, Kanban e muito mais!"
+        },
+        {
+            "name": "Curso de Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)",
+            "school": "Udemy",
+            "description": "Aprenda Vue JS 2, Vue Router, Vuex e Vue CLI 3 criando projetos reais com Firebase, Autenticação"
+        }
+    ]
+}

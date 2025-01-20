@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+:root,
+:root[data-theme='dark'] {
+  --primary-color: #e6e6e6;
+
+  --primary-bg-color: linear-gradient( #003962 ,#0b0b0c);
+  --secondary-bg-color: #011b2d;
+  --primary-border-color: #28292E;
+  --secondary-border-color: #56575A;
+
+  --title-color: #c9c9c9;
+  --text-color: #a5a5aa;
+  --link-color: #9A9A9C;
+  --icon-color: #C7C8C9;
+}
+
+:root[data-theme='light'] {
+  --primary-color: #0B0B0F;
+
+  --primary-bg-color: #E9E9E9;
+  --secondary-bg-color: #C7C8C9;
+  --primary-border-color: #C7C8C9;
+  --secondary-border-color: #9A9A9C;
+
+  --title-color: #0B0B0F;
+  --text-color: #28292E;
+  --link-color: #28292E;
+  --icon-color: #56575A;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+  list-style: none;
+  scrollbar-width: none;
+  scrollbar-color: var(--secondary-bg-color) transparent;
+  font-family: "Roboto Flex", "Neuton", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: var(--primary-color);
+  text-decoration: none;
+}
