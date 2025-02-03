@@ -84,7 +84,7 @@ function renderProjectsCarousel(projects) {
     startCarousel()
 }
 
-
+// render projects
 function renderProjects(projects) {
     const projectsList = document.querySelector(".projects__container");
     projectsList.innerHTML = "";
