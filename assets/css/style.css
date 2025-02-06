@@ -535,7 +535,7 @@ main {
   background: transparent;
   text-align: left;
   cursor: pointer;
-  transition: ease-in-out .3s;
+  /* transition: all 0.3s ease-in-out; */
 
 }
 
@@ -544,12 +544,16 @@ main {
 }
 
 .accordion__body {
-  display: none;
-  padding: 1.25rem;
+  padding: 0;
+  height: 0;
+  width: auto;
+  visibility: hidden;
+  opacity: 0;
   flex-direction: column;
   align-items: flex-start;
   gap: 0.625rem;
   border: 1px solid var(--primary-border-color);
+  transition: visibility 0s, ease-in-out 0.2s;
 }
 
 .accordion__header.start {
@@ -563,6 +567,10 @@ main {
 
 
 .accordion__item.active .accordion__body {
+  height: auto;
+  opacity: 1;
+  visibility: visible;
+  padding: 1.25rem;
   display: flex;
 }
 
