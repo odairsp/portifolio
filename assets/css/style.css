@@ -462,6 +462,7 @@ main {
 .about__photo {
   align-self: center;
   width: 80%;
+  max-width: 400px;
   object-fit: cover;
   object-position: center;
   pointer-events: none;
