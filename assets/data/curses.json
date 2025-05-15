@@ -14,11 +14,7 @@
             "name": "Curso de React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO!",
             "school": "Udemy",
             "description": "Aprenda React, Redux, Redux-Saga, Hooks, Context API, React-Router, Axios, JWT, LocalStorage, Jest, Enzyme, Storybook, Firebase, Heroku, Netlify, SEO, PWA, MVC, Rest, GraphQL, TDD, BDD, Scrum, Kanban e muito mais!"
-        },
-        {
-            "name": "Curso de Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)",
-            "school": "Udemy",
-            "description": "Aprenda Vue JS 2, Vue Router, Vuex e Vue CLI 3 criando projetos reais com Firebase, Autenticação"
         }
+
     ]
 }
